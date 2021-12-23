@@ -899,7 +899,7 @@ button.primary-menu-btn {
   width: 100%;
   max-width: 700px;
   margin: 0px auto;
-  padding: 0 2%;
+  padding: 0 5%;
 }
 
 .message.knockout h2, .message.knockout h3, .message.knockout p {
@@ -913,7 +913,7 @@ button.primary-menu-btn {
 
 .message .description {
   display: inline-block;
-  padding: 2em;
+  padding: 1.25em;
   margin: 3em 1.5em 1.5em;
   text-align: left;
 }
@@ -922,12 +922,6 @@ button.primary-menu-btn {
   font-size: 1.25em;
   line-height: 1;
   margin-bottom: 0.35em;
-}
-
-@media screen and (max-width: 769px) {
-  .message h2 {
-    font-size: 2.75em;
-  }
 }
 
 .message h2 span {
